@@ -1,4 +1,4 @@
-# A secure P2P chat
+# Sekuro: A secure P2P chat
 Client-Server based peer-to-peer secure chat application which upholds security standards.
 
 ## Key features
@@ -8,7 +8,9 @@ Client-Server based peer-to-peer secure chat application which upholds security 
 - Protection against MITM attacks (Authentication using either public-key+digital signature or QR codes)
 - Secure session management (Session IDs + Key rotation + Timeout + re-key)
 
-> SSS CAT 2 Assignment  
+> Why not sekiro style?
+
+SSS CAT 2 Assignment  
 
 By  
 - GLN
