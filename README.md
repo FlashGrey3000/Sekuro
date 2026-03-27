@@ -1,0 +1,16 @@
+# A secure P2P chat
+Client-Server based peer-to-peer secure chat application which upholds security standards.
+
+## Key features
+- Key management between peers (Using DH or ECDH)
+- Message encryption and decryption (AES-256)
+- Message integrity verification (Either with AES-GCM or HMAC separately)
+- Protection against MITM attacks (Authentication using either public-key+digital signature or QR codes)
+- Secure session management (Session IDs + Key rotation + Timeout + re-key)
+
+> SSS CAT 2 Assignment  
+
+By  
+- GLN
+- Huntsky
+- Flashgrey
