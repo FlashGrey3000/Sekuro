@@ -1,4 +1,5 @@
 # Sekuro: A secure P2P chat
+[![AI Slop Inside](https://sladge.net/badge.svg)](https://sladge.net)  
 Client-Server based peer-to-peer secure chat application which upholds security standards.
 
 ## Key features
